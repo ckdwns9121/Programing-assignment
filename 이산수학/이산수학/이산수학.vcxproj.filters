@@ -13,7 +13,7 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\markingdata">
+    <Filter Include="소스 파일\markingdata">
       <UniqueIdentifier>{a35b2a43-dc9d-4d66-9d6a-cf0db4f43db2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -111,7 +111,7 @@
       <Filter>소스 파일</Filter>
     </None>
     <None Include="..\..\..\..\..\Desktop\창준\학과공부\2학년\2018 Discrete Mathematics.zip">
-      <Filter>리소스 파일\markingdata</Filter>
+      <Filter>소스 파일\markingdata</Filter>
     </None>
   </ItemGroup>
 </Project>
