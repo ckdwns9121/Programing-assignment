@@ -62,7 +62,7 @@ int main() {
 				}
 				input >> bowling.score2;
 				if (bowling.score1 + bowling.score2 == MAX_SCORE)//spare
-					bowling.check = 2;
+					bowling.check = 2; 
 				else
 					bowling.check = 3;
 			}
