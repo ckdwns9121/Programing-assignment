@@ -23,6 +23,7 @@ void dfs(int start) {
 		}
 	}
 }
+
 void bfs(int start) {
 
 	if (visit_Array[start] == 1) return; //¹æ¹®½Ã return;
