@@ -1,3 +1,7 @@
+/**
+ * Assignment 02 : Palindrome
+ */
+
 #include <fstream>
 #include <string>
 #include <algorithm>
