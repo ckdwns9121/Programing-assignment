@@ -1,3 +1,7 @@
+/**
+ * Assignment 08 : Bitmap
+ */
+
 #include <fstream>
 using namespace std;
 
