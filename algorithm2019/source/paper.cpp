@@ -1,3 +1,7 @@
+/**
+ * Assignment 04 : Color Paper
+ */
+
 #include <fstream>
 #include <algorithm>
 #include <vector>
