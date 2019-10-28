@@ -1,3 +1,7 @@
+/*
+	BANKER ALGORITHM SIMULATOR
+*/
+
 #include <fstream>
 #include <algorithm>
 #include <vector>
