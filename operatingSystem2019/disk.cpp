@@ -1,5 +1,5 @@
 /*
-	DISK Scheduling SIMULATOR
+	DISK Scheduling Simulator
 */
 
 #include <fstream>
