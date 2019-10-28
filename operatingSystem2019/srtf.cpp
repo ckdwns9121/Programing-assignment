@@ -1,3 +1,7 @@
+/*
+	SRTF Scheduling Simulator
+*/
+
 #include <fstream>
 #include <algorithm>
 #include <vector>
