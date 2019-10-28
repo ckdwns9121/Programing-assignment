@@ -1,5 +1,5 @@
 /**
- * Assignment 08 : BitMap
+ * Assignment 05 : Cube Painting
  */
 
 #include <fstream>
