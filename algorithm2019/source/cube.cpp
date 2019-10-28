@@ -1,3 +1,7 @@
+/**
+ * Assignment 08 : BitMap
+ */
+
 #include <fstream>
 #include <string>
 #pragma warning(disable:4996)
