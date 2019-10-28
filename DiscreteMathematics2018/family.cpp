@@ -7,7 +7,7 @@
 #include <stack>
 #pragma warning(disable:4996)
 using namespace std;
-#define A 500000
+#define A 500001
 
 vector< vector <int> > family(A);
 int visit_Array[A];
