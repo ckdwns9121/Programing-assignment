@@ -1,5 +1,5 @@
 /*
-	FCFS Scheduling SIMULATOR
+	FCFS Scheduling Simulator
 */
 
 #include <fstream>
